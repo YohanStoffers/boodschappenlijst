@@ -1,0 +1,35 @@
+h1,h2,h3 {
+    color: darkslategrey;
+}
+
+td{
+    padding: 10px;
+    background-color: lightgray;
+    border: 1px solid #888;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.title-row {
+    text-align: left;
+    font-weight: bolder;
+    
+}
+.productPrice,
+.totalCost {
+text-align: right;
+}
+.total,
+#totalCost{
+    font-weight: bold;
+}
+p {
+    color: grey;
+    font-size: smaller;
+}
+
+*{
+    font-family: sans-serif;
+}
